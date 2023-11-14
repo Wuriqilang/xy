@@ -1,8 +1,8 @@
 {
   "site": {
     "title": "祝福玄彦",
-    "base_url": "https://www.wuriqilang.com/xy",
-    "base_path": "/",
+    "base_url": "https://www.wuriqilang.com",
+    "base_path": "/xy",
     "trailing_slash": false,
     "favicon": "/images/avatar.png",
     "logo": "/images/logo.png",

@@ -11,12 +11,12 @@ banner:
 
 # Features
 features:
-  - title: "玄彦在阿里巴巴取得的成就"
+  - title: "Xuan Yan’s achievements at Alibaba"
     image: "/images/service-1.png"
-    content: "Astroplate is a comprehensive starter template that includes everything you need to get started with your Astro project. What's Included in Astroplate"
+    content: "Xuan Yan created many works during his tenure at Alibaba and promoted technological innovation. His intelligence and leadership played a key role in Alibaba's rise and earned her widespread praise and recognition in the industry."
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
+      - "1 IoT Components Library [LinkDesign](http://linkdesign.alibaba-inc.com/)"
+      - "2223"
       - "Build with Astro and TailwindCSS for easy and customizable styling"
       - "Fully responsive on all devices"
       - "SEO-optimized for better search engine rankings"

@@ -8,8 +8,7 @@ testimonials:
   - name: "星棠"
     designation: "FrontEnd Engineer"
     avatar: "/images/avatar-sm.png"
-    content: "三年前你给我打了个call，于是我从北京漂到了杭州，一起工作的时光快乐又自由，夸张点讲你就是精神领袖。我押韵上瘾了。。。
-你像是一颗耀眼的星，总是会选择那一条少有人走的路，祝福你未来能够开心自在，大千世界任你遨游，global citizien！"
+    content: "三年前你给我打了个call，于是我从北京漂到了杭州，一起工作的时光快乐又自由，夸张点讲你就是精神领袖。我押韵上瘾了。。。你像是一颗耀眼的星，总是会选择那一条少有人走的路，祝福你未来能够开心自在，大千世界任你遨游，global citizien！"
 
   - name: "若离"
     designation: "FrontEnd Engineer"

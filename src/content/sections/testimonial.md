@@ -13,7 +13,7 @@ testimonials:
   - name: "若离"
     designation: "alibaba-clound"
     avatar: "https://img.alicdn.com/imgextra/i1/O1CN01kZzqAP1UKafN6zWZM_!!6000000002499-2-tps-628-624.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+    content: "感谢你从茫茫人海中把我捞起，让我有机会在国内自己喜欢的领域开启一段激动人心的旅程，如果不是你我可能已经在京东成为平凡的一个社畜。在你身上我学到了一个阿里人的有情有义，也看到了对于产品和理想的追求，跟着你一起做了很多有意思的功能。感谢这三年多来的信任与包容，让我把自己的想法转变成现实，给了我自由发挥的舞台。现在你去另外一片天空追求自己的理想，祝你得偿所愿，人生海海，下次相逢！"
 
   - name: "邬雨杰"
     designation: "alibaba-clound"

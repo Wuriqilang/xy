@@ -1,8 +1,8 @@
 {
-  "name": "astroplate",
-  "version": "2.2.0",
-  "description": "Astro and Tailwindcss boilerplate",
-  "author": "zeon.studio",
+  "name": "xy",
+  "version": "1.0.0",
+  "description": "say goodby to xuanyan",
+  "author": "ruoli",
   "license": "MIT",
   "packageManager": "yarn@1.22.19",
   "scripts": {

@@ -11,7 +11,7 @@ banner:
 
 # Features
 features:
-  - title: "What's Included in Astroplate"
+  - title: "玄彦在阿里巴巴取得的成就"
     image: "/images/service-1.png"
     content: "Astroplate is a comprehensive starter template that includes everything you need to get started with your Astro project. What's Included in Astroplate"
     bulletpoints:

@@ -1,15 +1,15 @@
 {
   "site": {
-    "title": "Astroplate",
-    "base_url": "https://astroplate.netlify.app",
+    "title": "祝福玄彦",
+    "base_url": "https://www.wuriqilang.com/xy",
     "base_path": "/",
     "trailing_slash": false,
-    "favicon": "/images/favicon.png",
+    "favicon": "/images/avatar.png",
     "logo": "/images/logo.png",
     "logo_darkmode": "/images/logo-darkmode.png",
     "logo_width": "350",
     "logo_height": "50",
-    "logo_text": "Astroplate"
+    "logo_text": "xuanyan"
   },
   "settings": {
     "search": true,
